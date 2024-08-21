@@ -1,16 +1,13 @@
-## Hi there 👋
+## Oi, eu sou Victor👋
+Sou estudante da escola José Marcelino 
 
-<!--
-**victorjfd/victorjfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou no GitHub principalmente para as seguintes ações:
 
-Here are some ideas to get you started:
+-Estudar as aulas da plataforma Alura;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programar scratch e javaScript
+
+- -Meu desenvolvimento pessoal em programação
+
+- Para entrar em contato comigo acesse:
+@_victorhsv2_ 🥵
